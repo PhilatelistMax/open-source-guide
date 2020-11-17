@@ -13,20 +13,21 @@ We find it helpful to think of the README as a guide to your code or project. It
 
 This should answer a short list of basic questions:
 
-* **What is this repo or project?** (You can reuse the repo description you used earlier because this section doesn’t have to be long.)
-* **How does it work?**
-* **Who will use this repo or project?**
-* **What is the goal of this project?**  
+* **What are your hobbies? 
+ Do you have any hobbies or interests??** (You can reuse the repo description you used earlier because this section doesn’t have to be long.)
+* **How long has your hobby lasted?**
+* **Specify what kind of collecting you are fond of?**
+* **Where do you buy your collection material?**  
 
 You likely have the answer to many of these questions in your head and have discussed them with your team. It's helpful to write them down for people who find your repository. Not only will it be easier for developers to know how to fork the project or become involved with the project, but it will be easy for non-coders to understand what the code is designed to do, and how they, too, can become involved.
 
-**Example:** The [README for 18F’s Midas project](https://github.com/18f/midas) starts out by answering the questions:
+**Example:** The [README for 18F’s Philatelist  project](https://github.com/18f/philatelist) starts out by answering the questions:
 
-* What is Midas?
-* How does Midas work?
-* Who uses Midas?
-* What is Midas’ goal?
-* How can your organization benefit from using Midas?
+* Do you have an exchange fund??
+*Do you spend a lot of time and money on your hobby? ?
+*If you are offered to sell your collection, what will you do? ?
+* Do you visit exhibitions, museums?
+* Who else shares your hobby with your loved ones?
 
 ## Instructions for how to develop, use, and test the code.
 
@@ -53,9 +54,9 @@ We [explicitly welcome outside contributors](https://github.com/18F/open-source-
 * Whether work-in-progress pull requests are ok.
 * What 18F's [Code of Conduct](https://github.com/18F/code-of-conduct) states
 
-**Example:** The README for Midas contains a section called “[How you can help.](https://github.com/18f/midas#how-you-can-help)” What we really like about this section is that it doesn’t assume helpers are developers and lists ways for lots of different people to contribute. (Our [guide to welcoming non-coders to hackathons](https://18f.gsa.gov/2015/04/03/how-to-welcome-new-coders-to-a-civic-hackathon/) also contains many suggestions for ways to involve people with different skillsets.)
+**Example:** The README for  Philatelist contains a section called “[How you can help.](https://github.com/18f/Philatelist#how-you-can-help)” What we really like about this section is that it doesn’t assume helpers are developers and lists ways for lots of different people to contribute. (Our [guide to welcoming non-coders to hackathons](https://18f.gsa.gov/2015/04/03/how-to-welcome-new-coders-to-a-civic-hackathon/) also contains many suggestions for ways to involve people with different skillsets.)
 
-We also recommend reading Midas’ [Contributor’s Guide](https://github.com/18F/midas/blob/dev/CONTRIBUTING.md), which orients new dev contributors and tells them the best ways to communicate with Midas’ dev team.
+We also recommend reading Philatelist’ [Contributor’s Guide](https://github.com/18F/Philatelist/blob/dev/CONTRIBUTING.md), which orients new dev contributors and tells them the best ways to communicate with Philatelist’ dev team.
 
 ## List the licensing information for your project.
 
@@ -69,7 +70,7 @@ It's polite to give full credit when reusing work, even if not legally required 
 
 We also have a legal responsibility to respect the licenses of work we use. When adapting or embedding outside work, check its license for instructions for complying with that license.
 
-For example, see ["Licenses and attribution" in the U.S. Web Design Standards README](https://github.com/18F/web-design-standards#licenses-and-attribution). It starts with "A few parts of this project are not in the public domain", to prevent accidentally implying that all the project's files are in the public domain. It lists exceptions in this format: "The file *filename* is from *project name*, by *name of author* [or copyright *name of author*], under *name of license*." Then it has a section titled "The rest of this project is in the public domain", with the typical license information we put in READMEs. The project's [CONTRIBUTING file](https://github.com/18F/web-design-standards/blob/18f-pages-staging/CONTRIBUTING.md) includes the same sections. The [LICENSE file](https://github.com/18F/web-design-standards/blob/18f-pages-staging/LICENSE.md) has the same sections again, plus the full license text for some embedded works and our standard LICENSE information.
+For example, see ["Licenses and attribution" in the U.S. Web Design Standards README](https://github.com/18F/web-design-standards#licenses-and-attribution). It starts with "A few parts of this project are not in the public domain", to prevent accidentally implying that all the project's files are in the public domain. It lists exceptions in this format: "The file *filename* is from *Hobby*, by *Maxim* [or copyright *Maxim*], under *name of license*." Then it has a section titled "The rest of this project is in the public domain", with the typical license information we put in READMEs. The project's [CONTRIBUTING file](https://github.com/18F/web-design-standards/blob/18f-pages-staging/CONTRIBUTING.md) includes the same sections. The [LICENSE file](https://github.com/18F/web-design-standards/blob/18f-pages-staging/LICENSE.md) has the same sections again, plus the full license text for some embedded works and our standard LICENSE information.
 
 ## List the contact information for your team as well as where to ask questions.
 
